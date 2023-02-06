@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '9ctYkFB2BhsE1livkbknoXfjb49ukqiPzsgtNq5BAelpDRAAsCFdNnxivSPf',
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['localhost','https://django-r3.azurewebsites.net', 'django-r3.azurewebsites.net']
 # Application definition
